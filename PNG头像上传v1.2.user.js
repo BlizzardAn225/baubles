@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name 透明头像上传
-// @namespace http://tampermonkey.net/
+// @namespace https://github.com/BlizzardAn225/baubles
 // @version 1.2
 // @description 替换 image/jpeg 为 image/png/webp/avif，并防止绘图时覆盖透明背景。仅在URL包含 account/profile/myaccount 时启用。
 // @author 待我-代我-带我
