@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         透明头像上传
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/BlizzardAn225/baubles
 // @version      1.0
 // @description  替换image/jpeg为image/png，并防止绘图时覆盖透明背景。只适用于前端操作的，后端参与修改的无法实现，例如微博、百度。已测试的有：B站、小米账号、微软个人档案、谷歌，其他待补充。
 // @author       待我-代我-带我
